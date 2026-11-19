@@ -1,0 +1,1 @@
+# LSTM---Atividade---Redes-Recorrentes---codigo
